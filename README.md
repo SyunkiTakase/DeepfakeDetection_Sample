@@ -1,0 +1,2 @@
+# DeepfakeDetection_Sample
+Deepfake Detectionのサンプルコード
