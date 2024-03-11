@@ -103,7 +103,7 @@
 <details>
 <summary>環境設定</summary>
 
-[先述の環境](https://github.com/cu-milab/pro-CNN-base-Deepfake-detection/tree/main/SBIs#%E5%8B%95%E4%BD%9C%E7%92%B0%E5%A2%83%E5%AD%A6%E7%BF%92%E6%B8%88%E3%81%BF%E3%83%A2%E3%83%87%E3%83%AB%E7%B5%90%E6%9E%9C)を整えてください．
+[先述の環境](https://github.com/SyunkiTakase/DeepfakeDetection_Sample/tree/main/SBIs#%E5%8B%95%E4%BD%9C%E7%92%B0%E5%A2%83%E5%AD%A6%E7%BF%92%E6%B8%88%E3%81%BF%E3%83%A2%E3%83%87%E3%83%AB%E7%B5%90%E6%9E%9C)を整えてください．
 </details>
 
 ### 1，データの用意
